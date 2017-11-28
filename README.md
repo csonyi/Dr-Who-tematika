@@ -27,6 +27,14 @@ A Doktor TARDISa állandóan tönkrement, így hogyan lehetne autentikusabb az �
 minthogy a TARBuszok úgy döntenek hogy nem mennek tovább.
 Az érkező fiatalok elé fogadók jönnek, hogy elvezessék őket a tábor területére.
 
+## Craft 2-1
+
+Az első Craft helyett a másodikat fogjuk megtartani, mert kaptunk a jövőből egy üzenetet, hogy mindenki átaludta a Craft 2-t másnap reggel,
+ezért most kell megtartanunk, hogy helyette megtarthassuk másnap a Craft 1-et.
+(pontozás természetesen ugyan az marad, ez csak _"szintaktikai cukorka"_)
+A Craftok során a Torchwood/UNIT/ExCompanionok vagy akár magának a Doktornak egyik inkarnációjának
+kell segíteni feladatok megoldásában, ezekért Intergalaktikus krediteket és különböző "relikviákat" kaphatnak a nyilvánvaló tapasztalat mellett.
+
 
 Ötletek:
 - Éjszakai túra | Silence
