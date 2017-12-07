@@ -9,7 +9,7 @@ A városok újjáépültek, mindent sikeresen visszaállítottak
 a régi kerékvágásba. A fiatalok ismét iskolába járnak,
 a társadalom ismét virágzik.
 
-A Magas Vezetőség úgy érzi itt az ideje egyfajta köszönetet nyilvánítani a Doktornak,
+A High Council úgy érzi itt az ideje egyfajta köszönetet nyilvánítani a Doktornak,
 valamint betekintést nyújtani az új generációnak a rengeteg zseniális és hősies
 tettek világába egy különleges esemény keretében.
 
@@ -27,6 +27,12 @@ A Doktor TARDISa állandóan tönkrement, így hogyan lehetne autentikusabb az �
 minthogy a TARBuszok úgy döntenek hogy nem mennek tovább.
 Az érkező fiatalok elé fogadók jönnek, hogy elvezessék őket a tábor területére.
 
+## Showhajtás
+
+Ezen az ünnepségen a csapatok bemutatkoznak egymásnak és a vezetőségnek. Az első feladat keretében a csapatoknak meg kell mutatniuk hogy méltók arra hogy
+a Doktor nyomdokaiba lépjenek, így különböző csapatversenyeken kell összemérniük
+rátermettségüket.
+
 ## Craft 2-1
 
 Az első Craft helyett a másodikat fogjuk megtartani, mert kaptunk a jövőből egy üzenetet, hogy mindenki átaludta a Craft 2-t másnap reggel,
@@ -35,7 +41,25 @@ ezért most kell megtartanunk, hogy helyette megtarthassuk másnap a Craft 1-et.
 A Craftok során a Torchwood/UNIT/ExCompanionok vagy akár magának a Doktornak egyik inkarnációjának
 kell segíteni feladatok megoldásában, ezekért Intergalaktikus krediteket és különböző "relikviákat" kaphatnak a nyilvánvaló tapasztalat mellett.
 
+## Casino
 
-Ötletek:
-- Éjszakai túra | Silence
-- Showhajtás | Pandorica
+A Doktor hatalmas tudással rendelkezett, de rengetegszer a szerencsének köszönhetően
+sikerült megoldania a krízishelyzetet. A elmúlt pár nap bonyodalmai és kihívásai
+mellett szükség van a kikapcsolódásra is. A High Council így felkérte Dorium Maldovar-t
+hogy vezényelje le ezt a programot, ahol az ifjú Timelordok beletanulhatnak a
+stratégikus gondolkodásba, miközben jól érzik és kipihenhetik magukat.
+
+## Éjszakai túra
+
+"Silence will fall..."
+A csönd lényeier senki nem emlékszik. Biológiailag úgy lettek létrehozva, hogy
+mihelyst nem látod őket, mindennemű emléked eltűnik róluk, és olyan mintha soha nem is találkoztál volna velük. A Doktor nagyon hosszú ideig harcolt velük, és ennek
+emlékére _**TODO**_
+
+> ### TODO
+> - Razzia
+> - Éjszakai túra
+> - Tőzsde
+> - Meta
+> - Árverés
+> - Cetlizés
