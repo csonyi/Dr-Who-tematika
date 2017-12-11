@@ -83,3 +83,7 @@ Pl.:
  * Mulatás - BoomBox Effektor
  * Torna - Adrenalinreceptor-aktivátor
  * Tükör - Deflektor
+
+## Dekoráció és hangulatelemek
+
+Gondoltunk arra hogy lehetnének Dalekformájú kukák, valamint a házak ajtajára a pólószínüknek megfelelő TARDIS ajtó festésű papírt lehetne ragasztani. 
