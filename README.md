@@ -18,7 +18,6 @@ ahova minden kíváncsi jelentkező beköltözhet egy időre, hogy megismerhesse
 
 > A "Relatív Tér-Idő" nyilván a tábor, szerintem elég poén hasonlat főleg hogy
 > mindig elhangzik az "Amindenit már \<insert nap here> van???"
-> - *TODO*: **TARDIS** anagramma tábornévnek
 
 
 ## Gyülekező és buszrablás
@@ -37,29 +36,50 @@ rátermettségüket.
 
 Az első Craft helyett a másodikat fogjuk megtartani, mert kaptunk a jövőből egy üzenetet, hogy mindenki átaludta a Craft 2-t másnap reggel,
 ezért most kell megtartanunk, hogy helyette megtarthassuk másnap a Craft 1-et.
-(pontozás természetesen ugyan az marad, ez csak _"szintaktikai cukorka"_)
+(pontozás természetesen ugyan az marad)
 A Craftok során a Torchwood/UNIT/ExCompanionok vagy akár magának a Doktornak egyik inkarnációjának
 kell segíteni feladatok megoldásában, ezekért Intergalaktikus krediteket és különböző "relikviákat" kaphatnak a nyilvánvaló tapasztalat mellett.
 
 ## Casino
 
-A Doktor hatalmas tudással rendelkezett, de rengetegszer a szerencsének köszönhetően
-sikerült megoldania a krízishelyzetet. A elmúlt pár nap bonyodalmai és kihívásai
-mellett szükség van a kikapcsolódásra is. A High Council így felkérte Dorium Maldovar-t
-hogy vezényelje le ezt a programot, ahol az ifjú Timelordok beletanulhatnak a
-stratégikus gondolkodásba, miközben jól érzik és kipihenhetik magukat.
+A Doktor első inkarnációji alatt többször sikeresen elszerencsejátékozta a TARDISát... Ezt megelőzvén, a fiatalok nem árt ha kipróbálják magukat egy-két hasonló játékban, miközben kipihenik a korábbi kihívások fáradalmait. A feladat nem csak a káros szenvedélyre való figyelemfelhívásként került be a tábor programjai közé, hanem a stratégikus gondolkodás és taktikázás fejlesztéséért is.
 
 ## Éjszakai túra
 
 "Silence will fall..."
 A csönd lényeier senki nem emlékszik. Biológiailag úgy lettek létrehozva, hogy
 mihelyst nem látod őket, mindennemű emléked eltűnik róluk, és olyan mintha soha nem is találkoztál volna velük. A Doktor nagyon hosszú ideig harcolt velük, és ennek
-emlékére _**TODO**_
+emlékére A vezetőség úgy döntött hogy jobb ha a fiatalok átélik hogy pontosan milyen
+nehézségekkel járt egy olyan ellenség ellen küzdeni, ammiről azt sem tudták hogy létezett.
 
-> ### TODO
-> - Razzia
-> - Éjszakai túra
-> - Tőzsde
-> - Meta
-> - Árverés
-> - Cetlizés
+_A sorozatban a karakterek azzal jelezték maguknak hogy baj van, hogy akár hányszor láttak egy ilyen lényt, húztak magukra egy csíkot egy filctollal. Egy idő után a teljes testük tele volt ilyen strigulákkal, a túra időtartama alatt a szervezők amikor a gólyák nem figyelnek oda egyre több és több ilyen csíkot húzgálhatnak esestleg magukra, hogy autentikusnak tűnjön a helyzet. A szokásos feladatok mellé az út mellett el lehetne rejteni képeket, amikért plusz pont jr ha meglátják őket és összecsíkozzák magukat_
+
+## Razzia
+
+A TorchWood kihelyezett divíziója meghallotta, hogy a fiataloknál lehetséges hogy vannak illegális tárgyak/eszközök a tábor területén, ezért kiküldtek egy csapat ügynököt, hogy vizsgálják át a házakat, hátha találnak valamit.
+
+## Tőzsde
+
+A Tőzsde vezetésére a bolygó vezetése a Doktor öreg jóbarátját Dorian Maldovart kérték fel, aki messze földön híres volt arról hogy milyen jól is értett a pénzhez és anank forgatásához. Az ujdonsült diákok itt megismerhetik a pénz igazi világát, valamint továbbfejleszthetik a csapatos problémamegoldó képességüket házvezetőiktől távol.
+
+## Meta
+
+A Meta működhetne a tavalyihoz hasonlóan, csak a nyersanyagok helyett különböző bolygókon élő népekkel való barátságot lehet gyűjteni. A Meta tábla is maradhatna a tavalyihoz hasonló, földrészek helyett bolygókkal.
+
+## Árverés
+
+A Casino alatt összebuherált pénzmennyiségből a házak ezen az ünnepéyles áverésen hozzájuthatnak jobbnál jobb ajándékokhoz és relikviákviákhoz melyek köthetőek a Doktorhoz.
+
+## Cetlizés
+
+A cetlizés a szokásos lenne, csak a cetlik neve helyett mindenféle SciFi ketyerét ábrázolnának a papírkák (vagy Sonic Screwdriver appokat), és ezekkel vehetik rá egymást a feladat végrehajtására.
+
+Pl.:
+ * Kuss - Hanghullám-nullázó
+ * Dupla - Hologramvetítő
+ * Ébresztő - Hangrobbanás
+ * Harci Sérülés - IRMT (Ideiglenes Részleges Mentális Testrészblokkoló)
+ * Szobor - Stázismező
+ * Mulatás - BoomBox Effektor
+ * Torna - Adrenalinreceptor-aktivátor
+ * Tükör - Deflektor
